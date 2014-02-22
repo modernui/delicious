@@ -1,4 +1,4 @@
 delicious
 =========
 
-Delicious dishes made easy  
+Delicious and healthy dishes made easy  
